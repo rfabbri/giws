@@ -1,4 +1,4 @@
-#!/usr/bin/python -u
+#!/usr/bin/env python -u
 # Copyright or Copr. INRIA/Scilab - Sylvestre LEDRU
 #
 # Sylvestre LEDRU - <sylvestre.ledru@scilab.org> <sylvestre@ledru.info>
